@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/adapters/MainViewPagerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/application/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/commons/Methods.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/fragments/FeaturedFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/helpers/ToolbarColorizeHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/houston/titles/listeners/SimpleAnimatorListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/toolbar_shadow.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/cardviews.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors_indigo_blue_grey.xml" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

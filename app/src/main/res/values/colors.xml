@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#169ddb</color>
+    <color name="orange">#ff7700</color>
+    <color name="green">#25ba7f</color>
+    <color name="gray">#A4A7AA</color>
+
+    <color name="black_trans">#4D000000</color>
+    <color name="white_trans">#80FFFFFF</color>
+
+    <color name="btn_red_color">#ff4444</color>
+    <color name="login_btn_blue_color">#1ea0f7</color>
+    <color name="login_btn_blue_dark_color">#2c4cab</color>
+    <color name="game_btn_green_color">#00b50c</color>
+    <color name="action_btn_yellow_color">#ffbb00</color>
+    <color name="action_btn_dark_color">#5d5b5e</color>
+    <color name="header_bar">#e6e6e6</color>
+
+
+    <color name="black_letter">#4d4d4d</color>
+    <color name="blue_ticket">#58798a</color>
+
+    <color name="red_light">#ffff4444</color>
+    <color name="green_light">#ff99cc00</color>
+    <color name="orange_light">#ffffbb33</color>
+    <color name="blue_light">#ff33b5e5</color>
+    <color name="purple_light">#DA81F5</color>
+
+    <color name="dark">#58798A</color>
+    <color name="dark_actionbar">#212121</color>
+
+    <color name="primary_color">#DE1915</color>
+    <color name="dark_color">#8F0400</color>
+
+    <!--<color name="rippleColor">#3F51B5</color>-->
+</resources>

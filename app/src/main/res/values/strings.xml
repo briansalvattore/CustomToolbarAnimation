@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyectoTitle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="long_text">Android 5.0 Lollipop was one of the most significant Android releases ever,
+        in no small part due to the introduction of material design,
+        a new design language that refreshed the entire Android experience
+    </string>
+</resources>
